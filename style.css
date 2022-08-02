@@ -1,0 +1,31 @@
+.search{
+    background-color: #EEEEEE;
+    padding: 5px 0 17px;
+    width: 90%;
+    height: max-content;
+}
+#menu{
+    float:initial;
+    flex: auto;
+    justify-content: baseline;
+}   
+.table{
+    width: 90%;
+    font-size: 13px;
+}
+td{
+    border: 1px solid white;
+    padding: 2px 2px 5px 2px;
+}
+#google{
+    font-size: 16px;
+}
+#gmail{
+    font-size: 13.5px;
+}
+#sol{
+    font-size: 17px;
+}
+#saml{
+    font-size: 17.5px;
+}
